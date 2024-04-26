@@ -86,6 +86,7 @@ def user_info():
     return personal_info(name, age, color)
 
 result = user_info() 
+
 print(result) 
 
 # Question 6:
